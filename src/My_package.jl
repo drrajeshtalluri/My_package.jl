@@ -4,7 +4,7 @@ module My_package
 export test_fun
 
 """
-    test_fun(x)
+    test_fun(n)
 
 Returns sum of 1:n
 """

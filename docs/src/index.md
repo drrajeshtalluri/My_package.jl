@@ -8,7 +8,7 @@ CurrentModule = My_package
 ```
 
 ```@docs
-func(x)
+test_fun(n)
 ```
 
 ```@autodocs
